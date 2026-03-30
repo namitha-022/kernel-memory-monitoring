@@ -1,7 +1,5 @@
 # kernel-memory-monitoring
 
-# Container Memory Monitor (Kernel Module + Supervisor)
-
 A Linux kernel module and user-space supervisor system that monitors process memory usage and enforces soft and hard memory limits.
 
 ---
